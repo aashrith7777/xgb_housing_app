@@ -57,8 +57,8 @@ or visit  http://localhost:8501
 
     This project helped me understand end-to-end ML workflows and create applications that are easy to use for real-world users.
 
-## 👨‍💻 Author
+##  Author
 
 Motukuri Aashrith kumar
 B.E CSE | Machine Learning & Data Science Enthusiast
-📍 Hyderabad, India
+ Hyderabad, India
