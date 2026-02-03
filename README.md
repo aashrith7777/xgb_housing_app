@@ -5,7 +5,7 @@ Built with a clean and easy-to-use interface designed for Indian users.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Predicts **house prices in ₹ (INR)**
 - Built using **XGBoost Regression**
@@ -15,7 +15,7 @@ Built with a clean and easy-to-use interface designed for Indian users.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - **Python 3.12+**
 - **Pandas**, **NumPy**, **Scikit-learn**
@@ -25,7 +25,7 @@ Built with a clean and easy-to-use interface designed for Indian users.
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 1. **Clone this repository**
    ```bash
@@ -38,7 +38,7 @@ Built with a clean and easy-to-use interface designed for Indian users.
 Streamlit will automatically open your default browser,
 or visit  http://localhost:8501
 
- ## 📊 Model Training
+ ##  Model Training
 
     The model was trained in Google Colab using the California Housing Dataset.
 
@@ -49,7 +49,7 @@ or visit  http://localhost:8501
     Training with XGBoost Regressor
     Saving trained model using joblib
 
-## 📚 Learnings
+##  Learnings
 
     How to train and save an ML model in Google Colab
     Deploying ML models locally with Streamlit
